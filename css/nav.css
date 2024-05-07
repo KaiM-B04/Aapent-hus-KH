@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-content: start;
+  padding: 1rem;
+  margin: 0;
+  width: 100%;
+  position: top;
+  z-index: 1;
+}
+
+.logo {
+  height: 6rem;
+}
