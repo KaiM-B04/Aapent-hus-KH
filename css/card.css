@@ -1,3 +1,32 @@
 /* Velkommen til Åpent Hus på Kodehode!*/
 
 /* Visitkort styling */
+
+.container {
+  background-color: ghostwhite;
+  width: 40rem;
+  border-radius: 20px;
+  padding: 1rem;
+  color: var(--peach);
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+}
+
+.pro-pic {
+  max-height: 15rem;
+  max-width: 15rem;
+  border-radius: 5rem;
+}
+
+ul {
+  list-style: none;
+}
+
+.info {
+  padding: 1rem;
+  flex-direction: column;
+}
